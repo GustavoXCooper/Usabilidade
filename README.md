@@ -44,11 +44,11 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Gustavo] https://github.com/GustavoXCooper/
-[Leonardo] https://github.com/LeonardoMenezes1
-[Lucas] https://github.com/wbliuu
-[Henrique] https://github.com/HenryMeh
-[Julia]
+- [Gustavo](https://github.com/GustavoXCooper)
+- [Leonardo](https://github.com/LeonardoMenezes1)
+- [Lucas](https://github.com/wbliuu)
+- [Henrique] (https://github.com/HenryMeh)
+- [Julia]
 
 # Licença
 
