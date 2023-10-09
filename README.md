@@ -24,9 +24,11 @@
 
 - [ ] **Cadastrar Usuário**
 - [ ] **Fazer Login**
-- [ ] Receber e enviar mensagens
-- [ ] Adicionar/Excluir contatos
-- [ ] Enviar fotos e vídeos
+- [ ] Mapeamento de pontos turísticos das cidades.
+- [ ] Fornecer informações acerca de contato para agendamento, compra de ticket aos pontos turísticos.
+- [ ] Pacote de viagem pra atração desejada, com passagem, hotel e jantar.
+- [ ] Review de pontos turísticos e de pacotes.
+      
       
 
 
