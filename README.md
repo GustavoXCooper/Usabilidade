@@ -5,7 +5,7 @@
 
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+	O Aplicativo Dream Tour oferece aos amentes de viagens uma maneira fácil e informativa de conhecer pontos turísticos e organizar a viagem para eles de uma forma completa. Com uma interface intuitiva, o aplicativo lhe facilita a descoberta de locais incríveis, além de possibilitar a reserva de pacotes emocionantes.
 </h4>
 
 # Índice/Sumário
