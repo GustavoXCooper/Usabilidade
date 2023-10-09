@@ -2,11 +2,7 @@
 
 # Sobre o Projeto
 
-
-
-<h4 align="justify"> 
-	O Aplicativo Dream Tour oferece aos amentes de viagens uma maneira fácil e informativa de conhecer pontos turísticos e organizar a viagem de uma forma completa. Com uma interface intuitiva, o aplicativo lhe facilita a descoberta de locais incríveis, além de possibilitar a reserva de pacotes emocionantes.
-</h4>
+O Aplicativo Dream Tour oferece aos amentes de viagens uma maneira fácil e informativa de conhecer pontos turísticos e organizar a viagem de uma forma completa. Com uma interface intuitiva, o aplicativo lhe facilita a descoberta de locais incríveis, além de possibilitar a reserva de pacotes emocionantes.
 
 # Índice/Sumário
 
