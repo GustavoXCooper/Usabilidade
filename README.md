@@ -44,9 +44,10 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 - [Gustavo](https://github.com/GustavoXCooper)
 - [Leonardo](https://github.com/LeonardoMenezes1)
-- [Lucas](https://github.com/wbliuu)
+- [Lucas](https://github.com/ldsilvaS)
 - [Henrique](https://github.com/HenryMeh)
-- [Julia]
+- [Julia](https://github.com/juu21)
+- [Luiz](https://github.com/kingmetcash)
 
 # Licença
 
